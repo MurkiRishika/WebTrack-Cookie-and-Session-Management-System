@@ -1,2 +1,4 @@
-# WebTrack-Cookie-and-Session-Management-System
-WebTrack is a Python Flask application that demonstrates cookie-based language preferences and session-based user visit tracking to maintain user-specific information across requests.
+# Experiment 8
+Skill Development Course (Node JS / React JS / Django) - Lab Manual
+
+See the .docx file in this folder for the aim, steps, code and output.
